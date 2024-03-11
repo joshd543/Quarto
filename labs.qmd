@@ -1,5 +1,5 @@
 ---
-title: "labs.qmd"
+title: "Labs"
 format: html
 editor: visual
 ---

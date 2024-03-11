@@ -2,7 +2,7 @@
   {
     "objectID": "labs.html",
     "href": "labs.html",
-    "title": "labs.qmd",
+    "title": "Labs",
     "section": "",
     "text": "These are my labs"
   },
@@ -16,22 +16,22 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "projects.qmd",
+    "title": "Projects",
     "section": "",
     "text": "These are my projects"
   },
   {
     "objectID": "presentations.html",
     "href": "presentations.html",
-    "title": "presentations.qmd",
+    "title": "Presentations",
     "section": "",
     "text": "These are my presentations"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "quarto5",
+    "title": "Joshua Davis",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is Joshua Davis’s Quarto Website\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]

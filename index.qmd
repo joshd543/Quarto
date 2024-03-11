@@ -1,11 +1,9 @@
 ---
-title: "quarto5"
+title: "Joshua Davis"
 ---
 
-This is a Quarto website.
+This is Joshua Davis's Quarto Website
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+
