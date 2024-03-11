@@ -1,0 +1,7 @@
+---
+title: "presentations.qmd"
+format: html
+editor: visual
+---
+
+These are my presentations

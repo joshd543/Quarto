@@ -10,6 +10,12 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: labs.qmd
+        text: Labs
+      - href: projects.qmd
+        text: Projects
+      - href: presentations.qmd
+        text: Presentations
 
 format:
   html:

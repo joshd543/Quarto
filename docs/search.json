@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "quarto5",
+    "objectID": "labs.html",
+    "href": "labs.html",
+    "title": "labs.qmd",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "These are my labs"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Professional Photo\n\n\nHardworking UMass Student dedicating my life to medicine. I am on the pre-medical track, gearing up to apply to medical school. I am the founder of the professional fraternity, Mu Epsilon Delta, at UMass Amherst."
+    "text": "Professional Photo\n\n\nHardworking UMass Student, dedicating my life to medicine. I am on the pre-medical track, gearing up to apply to medical school. I am the founder of the professional fraternity, Mu Epsilon Delta, at UMass Amherst. To begin my medical journey, I have clocked in over five-hundred hours of EMT experience."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "projects.qmd",
+    "section": "",
+    "text": "These are my projects"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "presentations.qmd",
+    "section": "",
+    "text": "These are my presentations"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto5",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]

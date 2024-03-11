@@ -1,0 +1,7 @@
+---
+title: "projects.qmd"
+format: html
+editor: visual
+---
+
+These are my projects
